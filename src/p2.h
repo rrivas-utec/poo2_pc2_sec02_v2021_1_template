@@ -5,6 +5,10 @@
 #ifndef POO2_PC2_SEC02_V2021_1_P2_H
 #define POO2_PC2_SEC02_V2021_1_P2_H
 
+template<typename Container>
+Container focus_values (Container cnt) {
+    return Container{};
+}
 
 void question_2_1();
 void question_2_2();
